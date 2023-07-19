@@ -6,7 +6,7 @@
 
 <P>
   <h1 align="center">UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ</h1>
-  <h2 align="center">ARELY AGUILAR FARIAS</h2>
+  <h2 align="center">ARELY AGUILAR FARIAS M-200559</h2>
   <h3 align="center">Obtención del geoposicionamiento de latitud y longitud de un lugar en WearOs</h3>
   <h3 align="center">Fecha de entrega: 14/Junio/2023</h3>
 </P>
